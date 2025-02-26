@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Let's Give Documentation the Respect It Deserves
 date: 2019-09-23
 author: keithrbennett

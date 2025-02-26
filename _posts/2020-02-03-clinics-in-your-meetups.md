@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Clinics in Your Meetups
 published: true
 description: 

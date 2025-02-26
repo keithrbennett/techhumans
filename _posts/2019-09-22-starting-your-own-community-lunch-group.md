@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Starting Your Own Community Lunch Group
 date: 2019-09-22
 author: keithrbennett

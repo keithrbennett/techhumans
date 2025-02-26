@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Corey Haines' Excellent Adventure (Interview w/Audio)
 date: 2011-08-18
 author: keithrbennett
@@ -47,7 +48,7 @@ I hope you enjoy listening to this interview as much as I did (several times).
 
 03:05 – Finding people and having them find you
 
-12:30 – All of the above stemmed from a “negative event”: getting fired
+12:30 – All of the above stemmed from a "negative event": getting fired
 
 16:25 – Establishing a reputation within the Agile community
 
