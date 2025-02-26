@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Currently required for Cloudflare hosting:
-ruby '3.3.5'
+ruby '3.2.2'
 
 gem "jekyll", "~> 4.3.2" # Use the latest version
 
