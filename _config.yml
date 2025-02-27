@@ -25,7 +25,8 @@ url: "/"
 
 description: Exploring the Human Side of Technical Work
 
-baseurl: "" # the subpath of your site, e.g. /blog
+# The subpath of your site, e.g. /blog
+baseurl: ""
 twitter_username: keithrbennett
 github_username:  keithrbennett
 
