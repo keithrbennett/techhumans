@@ -22,11 +22,10 @@ author_name: Keith R. Bennett
 author_url: http://about.me/keithrbennett
 
 url: "/"
+baseurl: ""
 
 description: Exploring the Human Side of Technical Work
 
-# The subpath of your site, e.g. /blog
-baseurl: ""
 twitter_username: keithrbennett
 github_username:  keithrbennett
 
@@ -39,6 +38,9 @@ plugins:
 
 theme: jekyll-theme-slate
 
+# This instructs Jekyll to copy the _redirects file to the build out directory.
+include:
+  - _redirects
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
