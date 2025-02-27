@@ -21,8 +21,9 @@ email: keithrbennett@gmail.com
 author_name: Keith R. Bennett
 author_url: http://about.me/keithrbennett
 
-url: "/"
+url: "https://techhumans.com"
 baseurl: ""
+permalink: pretty
 
 description: Exploring the Human Side of Technical Work
 
