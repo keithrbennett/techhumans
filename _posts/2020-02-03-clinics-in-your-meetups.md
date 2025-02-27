@@ -144,9 +144,3 @@ Presentations definitely have their place. There really _is_ value in someone wh
 They would sometimes come to me when stuck, and when they did, I dropped what I was doing. It felt great to help them, but I knew they needed more than just firefighting to be really productive. I was unable to get authorization for us to devote the time we needed for more intensive collaboration, so I scheduled weekly Ruby lunchtime "clinics" on our own time. People shared their challenges, questions, and conquests. We met in a meeting room with a large shared monitor. I brought an external keyboard and mouse with me for use by whomever was "driving". At the beginning we had a discussion of topics to cover. That gave me the information I needed to optimize the use of our hour together.
 
 I encouraged them to show things they had learned, and to help each other. As time went on, their knowledge grew, and to my delight this happened more and more often. These sessions were my fondest memories of working there.
-
-
-
-----
-
-This article may be improved over time. To see its revisions you can go to its [Github commit history](https://github.com/techhumans-com/techhumans-com.github.io/commits/master/_posts/2020-02-03-clinics-in-your-meetups.md).
