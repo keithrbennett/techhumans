@@ -12,6 +12,7 @@ gem "jekyll", "~> 4.3.2" # Use the latest version
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15"
+  gem "jekyll-sitemap", "~> 1.4.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
