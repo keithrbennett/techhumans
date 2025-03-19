@@ -39,10 +39,6 @@ plugins:
 
 theme: jekyll-theme-slate
 
-# This instructs Jekyll to copy the _redirects file to the build out directory.
-include:
-  - _redirects
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
