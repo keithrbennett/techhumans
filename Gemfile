@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+  source "https://rubygems.org"
 
 # Currently required for Cloudflare hosting:
 ruby '3.4.2'
@@ -29,3 +29,7 @@ gem 'logger'
 gem 'csv'
 
 gem 'jekyll-theme-slate'
+
+# Dependabot
+
+gem 'rexml', '>= 3.4.4', '< 4.0'
