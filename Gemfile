@@ -1,9 +1,9 @@
   source "https://rubygems.org"
 
 # Currently required for Cloudflare hosting:
-ruby '3.4.2'
+ruby '4.0.3'
 
-gem "jekyll", "~> 4.3.2" # Use the latest version
+gem "jekyll", "~> 4.4" # Use the latest version
 
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -16,7 +16,7 @@ group :jekyll_plugins do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem "tzinfo-data", platforms: [:windows, :jruby]
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
