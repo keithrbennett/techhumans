@@ -21,7 +21,7 @@ gem "tzinfo-data", platforms: [:windows, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-gem 'puma'
+gem 'puma', '>= 7.2.1' # as per dependabot
 
 # Added for Ruby 3.4.0:
 gem 'base64'

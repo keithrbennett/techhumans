@@ -111,7 +111,7 @@ DEPENDENCIES
   jekyll-sitemap (~> 1.4.0)
   jekyll-theme-slate
   logger
-  puma
+  puma (>= 7.2.1)
   rexml (>= 3.4.4, < 4.0)
   tzinfo-data
 
